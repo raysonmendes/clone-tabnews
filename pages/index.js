@@ -1,12 +1,9 @@
 function Home() {
   return (
     <div>
-      <h1>O primeiro desafio clone-tabnews</h1>
+      <h1>Josane</h1>
       <p>
-        Sua Mente é para ter ideias, e não para guardá-las.
-      </p>
-      <p>
-        David Allen.
+        Estar contigo me faz querer ser alguém melhor. Te amo!
       </p>
     </div>
       )
